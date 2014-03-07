@@ -73,7 +73,11 @@
                                     {{ theme:js file="jquery-ui-1.10.3.custom.min.js" }}
                                   {{ theme:js file="jquery.timer.js" }}
                                   {{ theme:js file="test_timer.js" }}
-                              {{ theme:js file="jquery.fancybox.packs.js" }
+                                   {{ theme:js file="jquery.fancybox.js" }}
+                              {{ theme:js file="jquery.fancybox.pack.js" }}
+                              {{ theme:js file="jquery.fancybox-buttons.js" }}
+                              {{ theme:js file="jquery.fancybox-media.js" }}
+                              {{ theme:js file="jquery.fancybox-thumbs.js" }}
                                   {{ theme:js file="bootstrap_tooltip.js" }} 
                                     {{ theme:js file="bootstrap_popover.js" }}
                                   
@@ -137,6 +141,7 @@
    
     $(document).ready(function() {
 
+$('.fancybox').fancybox();
     $('#dp3').datepicker({
         
              dateFormat: 'yy-mm-dd'
