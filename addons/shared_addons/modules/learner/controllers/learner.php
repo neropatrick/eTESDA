@@ -850,6 +850,9 @@ class Learner extends Public_Controller
       force_download($filename.'.pdf',$dl );
      
  }
+   public function aboutus(){
+          $this->template->build('learner/aboutus');
+       }
        
        public function redLes($moduleID){
            $this->load->model('model_users');
