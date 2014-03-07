@@ -83,25 +83,25 @@
                     </div>                    
           
                 
-                <div class="span10 "  >
+                <div class="span10" style="width:850px">
                    
-                      <div class="well" >
+                      <div class="well"  >
                        
                             <!-- loop body here -->
-                            <div class="row tab-content" id="myTabContentTopic" style="height:400px">
+                            <div class="row tab-content" id="myTabContentTopic" style="overflow:hidden;height:auto">
                             
                             <?php $count = 1; ?>
                             <?php foreach($content as $cont): ?>
                                 <?php if($count == 1): ?>
                                     <div class="tab-pane fade active in"  id="<?php echo $cont[0]['id']; ?>">
-                                    <div class="span4" style=" margin-left:10px; ">
+                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px ">
                                         
                                         <p style="text-align:justify"><?php echo $cont[0]['textCont']; ?></p>
                                     
                                         </div>
 
 
-                                    <div class="span4" style="margin-left:50px" >
+                                    <div class="span3" style="margin-left:50px" >
                                         
                                         <div class="tab-content" id="<?php echo 'myTabContent'.$count; ?>" style="overflow:visible" >
                                         <?php $vidCount = 1; ?>
@@ -152,14 +152,14 @@
                                   <?php $count +=1 ;?>
                                 <?php else: ?>
                                    <div class="tab-pane fade" id="<?php echo $cont[0]['id']; ?>">
-                                    <div class="span4" style=" margin-left:10px; ">
+                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px ">
                                         
                                         <p style="text-align:justify"><?php echo $cont[0]['textCont']; ?></p>
                                     
                                         </div>
 
                                     
-                                    <div class="span4" style="margin-left:50px" >
+                                    <div class="span3" style="margin-left:50px" >
                                      
                                      
                                         <div class="tab-content" id="<?php echo 'myTabContent'.$count; ?>" style="overflow:visible" >
@@ -176,7 +176,7 @@
                                                         </div> 
                                                     <?php else: ?>
                                                         <div  class="tab-pane fade  " id="<?php echo 'part'.$count.$vidCount ?>">
-                                                        <iframe class="depth" width="360" height="203" src="<?php echo $vls['link']; ?>" frameborder="0" 
+                                                        <iframe class="depth" width="360" height="203"src="<?php echo $vls['link']; ?>" frameborder="0" 
                                                         allowfullscreen></iframe>
 
                                                         </div>
