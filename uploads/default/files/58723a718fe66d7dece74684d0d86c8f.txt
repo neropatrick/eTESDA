@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+		Connect a headset to the computer
+		Connect a speaker to the computer
+		Play music to test the speakers or headset
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the module on Connecting a Headset or Speakers. This will teach you how to connect a headset or speaker to the computer system unit.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> What is a Headset?  </title>
+	<text> 
+A headset is an audio output device that combines headphones with a microphone. 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title>Connecting the Headset to the System Unit   </title>
+	<text> 
+	 Identify the 3.5 mm connectors of your headset. The headphone connector is usually colored green or black. For the microphone, it is usually colored red or pink. You may need to consult your headset manual to identify these connectors.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> What is a speaker?  </title>
+	<text> 
+	A Speaker or multimedia speaker is an audio output device that converts electrical signals into sounds.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> How to connect Speaker to the System Unit  </title>
+	<text> 
+Procedure:
+
+      1. Identify the 3.5 mm audio jack or connector on your speaker. The jack is usually colored green or black.
+
+
+     2. Locate the audio socket on the system unit. This it is usually colored green or black.
+
+
+     3. Plug the speaker’s audio connector into the audio socket on the system unit
+
+
+Instruction: Click the Play icon to view the video demonstration on how to connect the speaker to the system unit.
+	
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+ 
+</lesson>	

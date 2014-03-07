@@ -1,0 +1,89 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+
+Use the Ping command to diagnose connection problems.
+Use the IPConfig command to check your network configuration
+Use a LAN Tester to diagnose network cable cable problems.
+	</text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Diagnosing and Troubleshooting Wired network. This will enable you to gain basic knowledge and skills in using the ping command, Ipconfig command and LAN tester to diagnose connection problems.
+
+ 
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title> Ping </title>
+	<text> 
+What is the Ping Command?
+
+Ping is a command that allows a user to test the connection within a network through a computer.
+
+Ping works by sending a request to the target computer and the target computer will reply back to the sending computer.
+
+The ping results are displayed in the form of a statistical summary of the response packets received, including round-trip times.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title>IPconfig</title>
+	<text> 
+What is Ipconfig?
+
+Internet protocol configuration (Ipconfig) is a command in windows that display current network configuration such as the computer’s IP address, subnet mask, gateway and DNS.
+
+This command also reset your IP address if the computer IP address is given by a DHCP server.
+
+Instruction on How to Use Ipconfig Command
+
+
+Go to Start Menu and then click Run.
+Type CMD and press the Enter key.
+Type ipconfig /all to view all IP settings for all network connection on the computer.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> Using LAN Tester  </title>
+	<text> 
+	What is a LAN Tester? 
+
+A LAN tester is a device used for checking patch cables and testing for correct output of a cable at the patch panel and jack. 
+
+Procedure:
+
+
+
+Turn on the LAN tester.
+Take the ends of the RJ45 cable and plug them into the ports on your tester. You can plug them in, in any slot.
+Press the test button, because the cable tester will have two sets of 8 LEDS indicators on it representing the 8 wires inside the connectors. You have to keep an eye on these LED indicator to see how the testing is proceeding.
+If the cable is properly crimped (straight through), two parallel LED indicators should light 
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+
+
+ 
+</lesson>	

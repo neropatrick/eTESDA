@@ -1,0 +1,67 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+
+Remove the Power Supply Unit from your computer
+Replace the Power Supply Unit in your computer
+ 
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on How to Replace Power Supply. This will enable you to gain basic knowledge and skills in connecting, removing and replacing Power Supply in your computer.
+
+ 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> What is the Power Supply Unit</title>
+	<text> 
+The power supply unit or PSU is the component that supplies power to the computer. The power supply unit converts the alter current from the power outlet and converts it to direct
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> Installing the power supply to the system unit  </title>
+	<text> 
+	Procedure:
+1. Insert the power supply in the casing.
+2. Notice the screw slots in the casing.
+3. Using a Philips screw driver, scure the power supply into the casing.
+4.   Connect the power supply cables into the motherboard, hard disk drive and optical 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> Installing the hard disk drive to the system unit </title>
+	<text> 
+	Procedure:
+
+
+Power on the computer.
+Press the delete key while the computer is booting up to access the BIOS setting.
+
+NOTE: Refer to your systems manual on how to access the BIOS setup.
+
+
+Go to the Hard disk detection menu.
+If you installed your hard drive correctly you should be able to see your newly installed hard disk.
+If the BIOS is unable to detect your hard drive, repeat the how to install your hard disk drive to the system unit procedures.
+Exit the BIOS setting.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+
+
+ 
+</lesson>	

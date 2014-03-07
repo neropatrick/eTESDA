@@ -1,0 +1,72 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+	At the end of this session, you will be able to:
+	Connect a printer to the computer
+	Install a printer driver
+	Perform a print tes
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Connecting and Configuring a Printer. This will teach you how to connect a printer to the computer system unit, install the necessary device driver and perform a print test.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>What is a printer? </title>
+	<text> 
+A printer is a peripheral device that accepts text and graphics output from a computer and transfers them to paper. The most common printers are inkjet and laser printers.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> Connecting the Printer to the System Unit </title>
+	<text> 
+	The following instructions are applicable to printers with USB connectors.
+
+	Procedure:
+		Position your printer next to the system unit.
+		Connect the USB cable of the printer to a free USB port of the system unit.
+		Plug the power cord of the printer to a power outlet.
+		Turn on the printer.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> Installing the printer driver </title>
+	<text> 
+Procedure:
+
+Insert the CD containing the printer driver into the CDROM.
+In Windows Explorer, browse and select the drive containing the device driver.
+Double click on setup.exe or the appropriate executable file.
+Follow the onscreen instructions.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> Performing print test </title>
+	<text> 
+Procedure: 
+
+
+Go to Control Panel
+Double Click on Printer and Devices icon
+Right click on the printer you just installed and select Properties
+Click on the Print Test Page button
+If there are no errors, the printer will print a test page containing information about the printer
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+ 
+</lesson>	

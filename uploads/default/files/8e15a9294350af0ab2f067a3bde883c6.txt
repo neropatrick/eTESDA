@@ -1,0 +1,62 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+			Perform Scandisk
+			Perform Disk defragmentation 
+			Perform Backup
+			Perform Virus Scan
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the module on Maintaining Computer System. This will teach you how to in scan a hard disk for errors, defragment a drive, back-up files and documents and scan for viruses.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> How to scan a disk for errors </title>
+	<text> 
+	What is Scandisk? 
+
+		Scandisk is a software utility that comes with the Windows operating system. It detects and corrects errors in the hard disk.
+
+		Procedures:
+
+		From the Desktop double click on the My Computer icon.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title>How to Perform Disk Defragmentation   </title>
+	<text> 
+	 Disk Defragmenting is a utility in the Windows that rearrange the files stored on the disk to increase efficiency and reduce access. 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> How to Back Up Files  </title>
+	<text> 
+	While hard drives nowadays become very reliable, there is still a chance that they will fail, causing you to lose important files. So its best to back-up  documents, pictures and other data on your hard drive from time to time.
+	To back-up a drive is to make a copy of files which and stored these in a seperately location from the original files.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> How to Scan and Clean Computer Virus  </title>
+	<text> 
+A computer virus is a computer program that may affect your hard drive seriously. This may spread within your hard drive or from one computer to another computer using a removable device like CD, DVD or USB drive.	
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+ 
+</lesson>	

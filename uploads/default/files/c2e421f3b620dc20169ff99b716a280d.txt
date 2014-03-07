@@ -1,0 +1,85 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+		o Remove the Optical Drive from your computer
+		o Replace the Optical Drive in your computer
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on How to Replace Optical Drive. This session will teach you how to connect and install optical drives in your computer.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> What is a Optical Drive </title>
+	<text> 
+The Optical Disc Drive is a device that is used to read and write data from optical media such as Compact Disk (CD), DVD and Blu-Ray disc. 
+
+Types of Hard Disk Drive connection interface
+
+IDE - stands for Integrated Drive Electronics is a 40 pin interface that connects the hard disk to the mother board.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title>Removing the optical disc drive from your computer?   </title>
+	<text> 
+	Procedure:
+Shut down the computer, unplug the power cord from the power outlet and remove the power cord from the system unit.
+Remove the side cover of the system unit, both sides.
+Disconnect the SATA data cable from the optical disc drive.
+Disconnect the SATA power cable from the optical disc drive.
+Using a screw driver, remove any screw holding the optical disc drive.
+Remove the optical disc drive out of the case	
+
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title> Installing the optical disc drive to the system unit</title>
+	<text> 
+	Procedure:
+
+
+Shut down the computer, unplug the power cord from the power outlet and remove the power cord from the system unit.
+Remove the side cover of the system unit, both sides.
+Insert the optical disk drive into a free optical drive bay.
+Screw the hard disk into the casing.
+Connect the SATA power cable into the optical disc drive; make sure that it is firmly connected.
+Connect the SATA data cable into optical disc drive; make sure that it is firmly connected.
+Put the side cover back into place.
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> How to connect Speaker to the System Unit  </title>
+	<text> 
+Procedure:
+
+      1. Identify the 3.5 mm audio jack or connector on your speaker. The jack is usually colored green or black.
+
+
+     2. Locate the audio socket on the system unit. This it is usually colored green or black.
+
+
+     3. Plug the speaker’s audio connector into the audio socket on the system unit
+
+
+Instruction: Click the Play icon to view the video demonstration on how to connect the speaker to the system unit.
+	
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+ 
+</lesson>	

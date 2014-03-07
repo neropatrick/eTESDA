@@ -1,0 +1,48 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Introduction</title>
+	<text>Welcome to the session on Connecting Basic Peripheral Devices. This session will teach you how to connect basic peripheral devices and start up a computer system.</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+
+</links>
+</topic>
+ 
+<topic>
+	<title>System Unit</title>
+	<text>This is the system unit. It is the main part of the computer system and houses the Central Processing Unit (CPU), motherboard, memory, storage devices, expansion cards and the power supply. </text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Monitor</title>
+	<text> A computer monitor or display screen is an output device that enables the user to view text, graphics and videos. </text>
+	<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	
+
+</links>
+</topic>
+<topic>
+	<title>Mouse</title>
+	<text> A mouse is an input device that controls the movement of the cursor or pointer and enables the user to move and select items that are displayed on the monitor.</text>
+	<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	
+
+</links>
+</topic>
+<topic>
+	<title>Mouse</title>
+	<text> A mouse is an input device that controls the movement of the cursor or pointer and enables the user to move and select items that are displayed on the monitor.</text>
+	<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	
+
+</links>
+</topic>
+
+ 
+</lesson>	

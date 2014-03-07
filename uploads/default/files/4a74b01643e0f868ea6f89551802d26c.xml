@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Serve the tray on the table.&lt;/li&gt;
+ &lt;li  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Confirm the time for clean up&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn the procedure of room service delivery. This will include settling the bill of the guest and asking the time for the clean up.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Settling the bill</title>
+        <text>&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;After serving the food, you will then need to settle the bill of the guest. Here are the steps to follow:&lt;/p&gt;
+
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; type=&quot;1&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Ask for the guest&amp;rsquo;s signature by presenting the bill folder with the bill and the control sheet. Let the guest sign on the bill to settle payment whether it is charged to room or through cash payment. If the guest chooses to pay in cash, give the change to the guest and accept the payment. Also, let the guest sign the control sheet. You must provide a pen for the guest to use.&amp;nbsp;
+ &lt;center  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;em  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&amp;ldquo;May I present to you your bill and control sheet Ma&amp;rsquo;am/Sir, kindly put your signature on the space provided&amp;rdquo;.&lt;/em&gt;&lt;/center&gt;
+ &lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Kindly ask the guest on what time you should come back to clean the soiled dishes.
+ &lt;center  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;em  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&amp;ldquo;What time do you like me to comeback for the clean up?&amp;rdquo;&lt;/em&gt;&lt;/center&gt;
+ &lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Thank the guest and bid farewell.
+ &lt;center  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;em  0px; padding: 0px; font-size: 0.99em;&quot;&gt;&amp;ldquo;Thank you Ma&amp;rsquo;am/Sir. I am looking forward to serve you again. Enjoy your meal. Please call us if there is anything you need.&amp;rdquo;&lt;/em&gt;&lt;/center&gt;
+ &lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Leave the room quietly.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/Tst7-57uIak</link>
+        </links>
+    </topic>
+</lesson>

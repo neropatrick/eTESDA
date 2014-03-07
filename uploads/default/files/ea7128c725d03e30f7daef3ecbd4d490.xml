@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Learn how to properly arrange the tableware in the tray&lt;/li&gt;
+ &lt;li  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Gain knowledge on how to fill out the control sheet and prepare the bill&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn how to prepare necessary tableware before delivering the food to the guest. You will also learn how to organize the tray to help you carry it with ease. Lastly,you will get to familiarize yourself with the control sheet which is used in tracking the tableware for facilitating the orders.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Control Sheet</title>
+        <text>&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The control sheet is a standard form used by hotels in order to ensure that all food and beverage orders will be monitored properly, and be delivered on time. All orders and table appointments are reflected on the room service control sheet in order to avoid losses and breakages of the table appointments by tracking them down.&lt;/p&gt;
+&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;Here are the important information needed:&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Guest name&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Room number&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Server&amp;rsquo;s name&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Date of order&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Time of delivery&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Time of pickup &amp;ndash; This will initially be left blank. The information will be filled after the delivery&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Guest orders&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Quantity of order&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Tableware appointments - These are the needed materials that will be used by the guest.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Setting up the tray</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;After being notified that the food is ready, you may now set the tray. You may use the order slip to know the needed items.&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Pick up the food from the kitchen. Carry it with your thumb away from the plate to avoid touching the food.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Prepare the silverware by placing it in the napkin. Make sure not to leave any fingerprints.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Arrange the tray and make sure it is clean. Heavy items should be placed in the center to keep it balanced.&amp;nbsp;
+ &lt;ol  0px; padding-right: 0px; padding-left: 0px; font-size: 0.99em;&quot;&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;First put the silverware on the lower left side of the tray.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Then place the placemat on the bottom part next to the silverware.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Place the cup and saucer on the upper right side of the tray. If there are any glassware, handle the glass by body or stem only.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Next, place the condiments on the left side of the cup and saucer.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Put the creamery set on the top part of the tray near the condiments.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;After that, place the coffee pot on the upper left side of the tray.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Then place the food with cover on the center of the tray.&lt;/li&gt;
+  &lt;li  0px 0px 0px 30px; padding: 0px; font-size: 0.99em; list-style-type: lower-alpha;&quot;&gt;Finally, place the centerpiece below the coffee pot.&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Fill out the control sheet. This is where you place the guest&amp;#39;s information, food order and the materials on the tray. After filling it out, put this inside the bill folder.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Prepare the bill folder. Include the bill and control sheet and slide it under the placemat. If payment is in cash, include the change in the bill folder.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/y9AfhG-RFGQ</link>
+        </links>
+    </topic>
+</lesson>

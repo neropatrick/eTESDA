@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Topic 1</title>
+	<text>Topic 1 text</text>
+	<link>//www.youtube.com/embed/mWRsgZuwf_8</link>
+</topic>
+<topic>
+	<title>Topic 2</title>
+	<text>Topic 2 Text </text>
+	<link>//www.youtube.com/embed/hT_nvWreIhg</link>
+</topic>
+</lesson>	

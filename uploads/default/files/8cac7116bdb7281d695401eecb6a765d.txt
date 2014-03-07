@@ -1,0 +1,43 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Installation of Computer Network. At the end of this session, you will be able to identify the different types of network and network topologies.
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/KULJOEkR0l4 </link>
+
+</links>
+</topic>
+
+<topic>
+	<title>Computer Network</title>
+	<text>
+	What is a network?
+A network is the interconnection of computers, devices and 	peripherals to allow them to communicate, share or print data 	and information.
+
+There are two types of networks:
+
+1. Local Area Network (LAN)
+
+The Local Area Network or LAN is the interconnection of computers and devices using a hub, switch or router within a small area such as building, school, office or home. 
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/KULJOEkR0l4 </link>
+
+</links>
+</topic>
+
+
+
+
+
+
+ 
+
+
+ 
+</lesson>	

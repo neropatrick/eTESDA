@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objective</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Fill out forms needed after cleaning the room&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn the things to do after cleaning the room.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Final task</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;Do not forget that you must record the time you finished cleaning the room in the &amp;lsquo;Time Out&amp;rsquo; column of your Room Assignment Sheet.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+</lesson>

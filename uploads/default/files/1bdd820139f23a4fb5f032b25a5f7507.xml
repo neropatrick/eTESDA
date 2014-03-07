@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objective</title>
+        <text>&lt;ul&gt;
+ &lt;li&gt;Identify the basic peripherals needed to start up a computer system&lt;/li&gt;
+ &lt;li&gt;Connect the basic peripherals to a computer system unit&lt;/li&gt;
+ &lt;li&gt;Start up the computer system&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/FE3lWGHyXMQ</link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction </title>
+        <text>Welcome to the session on Connecting Basic Peripheral Devices. This session will teach you how to connect basic peripheral devices and start up a computer system.</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>System Unit </title>
+        <text>This is the system unit. It is the main part of the computer system and houses the Central Processing Unit (CPU), motherboard, memory, storage devices, expansion cards and the power supply.</text>
+        <links>
+            <link>//www.youtube.com/embed/FE3lWGHyXMQ</link>
+        </links>
+    </topic>
+</lesson>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Take out dirty items to prepare for cleaning&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Proper procedure of handling dirty items&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn how to take out the dirty items from the bathroom.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Collecting dirty bath towels</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;The following are the steps in removing used towels:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Wear work gloves.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Pick up the dirty towels.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Wrap all the towels inside one dirty towel.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Drop the towels inside the linen canvass.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/XVAhpU3xkL4</link>
+        </links>
+    </topic>
+</lesson>

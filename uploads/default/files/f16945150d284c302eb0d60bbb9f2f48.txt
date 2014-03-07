@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to: 
+
+		Diagnose and troubleshoot computer errors using a flowchart.
+ 
+	</text>
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Diagnose and Troubleshoot Computer Systems. This session will teach you how to diagnose and troubleshoot computer errors using a flowchart.
+
+ 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+<topic>
+	<title> Diagnose and Troubleshoot Computer Systems </title>
+	<text> 
+Diagnose and Troubleshoot Computer Systems 
+
+Diagnosing and troubleshooting computer hardware error is a process of determining the cause of error and applying the appropriate fix to eliminate the error. 
+
+Troubleshooting Techniques 
+
+It is best practice that we use all the possible software program like antivirus diagnostics and utilities in troubleshooting computer defects before we start troubleshooting the hardware component. Most computer defects are caused by software, hardware or both, displaying the same trouble such as computer hang, no display, no sound etc.
+
+Troubleshooting should be done in a logical and systemic manner. It is logical that we check for software errors before troubleshooting the hardware component.
+
+We say that troubleshooting is systemic when we examine and test first, those are easy to handle without using instruments like visual inspections and use of software utilities. 
+	</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+
+
+ 
+</lesson>	

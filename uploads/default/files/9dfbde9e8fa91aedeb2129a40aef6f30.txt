@@ -1,0 +1,82 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+
+Use the Ping command to troubleshoot connection problems
+Use the IPconfig command to troubleshoot connection problems
+ 
+	</text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Diagnosing and Troubleshooting Wireless Network. This will enable you to gain basic knowledge and skills in Diagnosing and Troubleshooting Wireless Network which includes the Ping and IPConfig DOS Command
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title> Ping </title>
+	<text> 
+What is Ping Command
+
+Ping is a basic Internet program that allows a user to verify that a particular IP address exists and can accept requests. Ping can be used for troubleshooting to test connectivity and determine response time.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title>Removing the hard disk drive from the system unit </title>
+	<text> 
+	
+Procedure
+
+
+Shut down the computer, unplug the power cord from the power outlet and remove the power cord from the system unit.
+Remove the side cover of the system unit, both sides.
+Disconnect the SATA interface cable from the hard disk.
+Disconnect the SATA power cable from the hard disk.
+Using a Philips screw driver, remove any screw holding the hard disk.
+Remove the hard disk out of the case.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> Installing the hard disk drive to the system unit </title>
+	<text> 
+	Procedure
+
+
+Power on the computer.
+Press the delete key while the computer is booting up to access the BIOS setting.
+
+NOTE: Refer to your systems manual on how to access the BIOS setup.
+
+
+Go to the Hard disk detection menu.
+If you installed your hard drive correctly you should be able to see your newly installed hard disk.
+If the BIOS is unable to detect your hard drive, repeat the how to install your hard disk drive to the system unit procedures.
+Exit the BIOS setting.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+
+
+ 
+</lesson>	

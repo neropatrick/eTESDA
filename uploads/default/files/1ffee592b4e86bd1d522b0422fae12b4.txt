@@ -1,0 +1,57 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+            At the end of this session, you will be able to:
+
+                Install a Wireless Router
+                Install a Wireless LAN Card
+            
+        </text>
+<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title>Installing a Wireless Router </title>
+	<text>
+         Wireless Network
+
+A Wireless Network, or commonly called as WLAN or Wi-Fi uses radio signal frequency to connect computers and other network devices.
+
+This is based on the IEEE 802.11 standards rules and regulations.
+            
+        </text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title>Installing a Wireless LAN Card </title>
+	<text>
+        A Wireless LAN Card is a device that is capable of connecting computers thru the use of wireless technology. It does not use wires or cables to connect to the network.
+            
+        </text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title>Summary </title>
+	<text>
+        A Wireless Router is a router that is capable of sending and receiving data thru the use of wireless technology.
+
+A Wireless LAN card is a device that enables the computer to connect to a Local Area Network (LAN) with its wireless technology.
+        </text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+
+ 
+</lesson>	

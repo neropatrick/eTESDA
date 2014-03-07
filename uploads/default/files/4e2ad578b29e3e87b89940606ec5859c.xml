@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objective</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Perform furniture and fixture quality checks&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn the last tasks to do before leaving the room.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Checking the overall condition</title>
+        <text>&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Get the lost and found items and Room Assignment Sheet from the vanity table drawer and transfer it to the housekeeping cart. Keep the lost and found items hidden if there is no lock box on the cart.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Check the working conditions of knobs (sink and tub) and electronic gadgets (tv, lamps, telephone)&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Check the condition of the whole room. Keep in mind that the room should look presentable again.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Check the door knob for fingerprints, both from inside and outside.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Finally, exit the room.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+</lesson>

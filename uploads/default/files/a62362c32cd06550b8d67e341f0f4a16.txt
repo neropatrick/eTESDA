@@ -1,0 +1,143 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives </title>
+	<text>At the end of this session, you will be able to:
+Configure boot options in the BIOS
+Install an operating system on a computer</text>
+<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>Welcome to the session on Installing an Operating System. This session will teach you how to set up the BIOS boot-up options and install the Windows operating system.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>Step 1: Setting up the boot option </title>
+	<text> Why do we need to set the computer to boot from the CD-ROM drive?
+
+Normally a computer system boots from the hard drive. From here, the computer loads the operating system that is installed on the computer system. 
+Since we are installing a new operating system on the computer, and our installation files are stored in a CD-ROM, we need to set the computer to boot from the CD-ROM drive instead. This is done in the BIOS setup.
+
+Procedure:
+
+Turn on the computer.
+Press the Delete key while the computer is starting up to enter the BIOS setup. This will work on most computer systems. </text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>Step 2: Partitioning the hard drive </title>
+	<text> Disk partitioning is simply dividing your hard drive into multiple volumes known as logical drives.
+As an example, if you have a 500 GB hard drive, you can divide the hard drive into two volumes, each with 250GB (e.g. 250 GB drive C: and 250 GB drive D:). By doing this, you can install the operating system and applications in one volume and your data and documents in another volume.
+
+In case the operating system gets corrupted and needs to be re-installed, you can do so without losing documents and other data since these are stored in another partition.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title>Step 3: Formatting the hard drive </title>
+	<text> Why do we need to format the hard drive?
+
+Formatting the hard drive is a process that prepares the hard drive for writing and reading data. The process involves erasing all data stored on the hard drive. It also tests the disk for errors and corrects them if any are found. 
+
+When formatting the hard drive, we need to specify a file system. In Windows XP, we can select either the FAT32 or NTFS.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>Step 4: Setting up the Windows environment  </title>
+	<text>Setting the Windows environment lets you localize the version of Windows you are installing. For example, if you want to display text in Chinese, you can set this in the Regional and Language Options.
+Procedure:
+
+When Windows XP starts for the first time it will scan for any new hardware and will install the needed drivers of the supported devices, this may take several minutes to complete.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title> Step 5: Setting up the computer name and administrator account   </title>
+	<text>The Computer name is used to identify your computer in a network. This name should be unique for each computer.
+
+The Administrator is a super user account that has no restrictions. This account may be used to set configuration options (e.g. network settings, install software and perform other administrative tasks).</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title> Step 6: Setting up the date and time    </title>
+	<text>Set the correct date and time. This is important especially when downloading updates and security patches. 
+Procedure:
+
+On the Date and Time settings, enter the correct date and time.
+Select your time zone then click on the Next button to continue.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title> Step 7: Setting up the network    </title>
+	<text>Setting up the network connects your computer to the internet and/or to your local area network. By doing this, you will be able to access shared network resources such as files, applications and devices.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title> Step 8: Setting up the display    </title>
+	<text> Procedure:
+
+After the computer reboots and loads into Windows, a display setting dialog box will appear. Click Ok to let Windows XP adjust your screen resolution. Windows will automatically detect the best resolution for your monitor; this will make sure that the text will be readable.</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title> Summary    </title>
+	<text>
+A. An Operating system is important for a computer system as it acts as an interface between the user and the computer. Without it a computer will not be able to perform tasks.
+
+B. There are ten (10) essential steps you need to remember when installing a Windows Operating System, these are:
+
+
+Setting up the boot option
+Partitioning the hard drive
+Formatting the hard drive
+Setting up the Windows environment
+Setting up the computer name and administrator account
+Setting up the date and time
+Setting up the network
+Setting up the display
+Registering Windows XP
+Creating log-in credentials</text>
+	<links> 
+
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+ 
+</lesson>	

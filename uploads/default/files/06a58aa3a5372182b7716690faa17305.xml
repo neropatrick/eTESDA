@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Learn what a Room Assignment Sheet is&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Determine the order in which to clean their assigned room&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The Front desk provides detailed information about occupancy and condition of guestrooms to the Housekeeping as to which rooms will require service on a given day. The Executive Housekeeper or Supervisor uses this information to control work progress and plan the room assignment for Guestroom Attendants.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The number of rooms assigned to a Guestroom Attendant is based on the property&amp;rsquo;s work standards for specific types of room and cleaning tasks.&lt;/p&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>The Room Assignment Sheet</title>
+        <text>&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The Room Assigment Sheet is a standard form which provides information on the room number, room status, par allocation, and cleaning time.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The column will tell you the rooms you will clean, the status of the rooms, and supplies that you will need.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The Guestroom Attendant uses the Room Assignment Sheet to schedule the workday and to report the condition of each assigned room at the end of the shift. After thorough review of the Room Assigment Sheet you will have a sense of where to start your day. You have to keep in mind that in setting your priority in cleaning the room, you should always consider the order that best helps the guests.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The order in which room to clean is determined by the status of the rooms listed on each Room Attendant&amp;#39;s assignment sheet. The Room Assignment Sheet generally uses simple terms to indicate room status using codes. This is used to avoid double booking or assigning out-of-order rooms to guests.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;Codes used in the Room Assignment Sheet:&lt;/p&gt;
+
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;C/O - Check-out-rooms. The guest has settled his/her account, returned the room keys, and left the hotel. One exception to this is the room where the guest is requesting for an early makeup of the room.&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ The C/O rooms are usually cleaned first so the front office can resell the room as a guest arrives.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;MUR - Make up room.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;Occ - Occupied Room where guest is requesting service&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;VD - Vacant Dirty.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;OOO - Out-of-Order. The room needs immediate repair&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;VC - Vacant Ready. The room has been cleaned and inspected.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;S/O - Stay Over. The guest is not scheduled to check out that day.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;D/O - Due out. The room is expected to become vacant within the day.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;DND - Do not Disturb. The guest has requested not to be disturbed.&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px; text-align: justify;&quot;&gt;C/I - Check in. The guest has registered&lt;/li&gt;
+ &lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+ &lt;br /&gt;
+ &amp;nbsp;
+&lt;/ul&gt;
+
+&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;When you receive your Room Assignment Sheet from your Supervisor, write down important information such as: your name, floors where rooms are to be cleaned, work schedule, comments about each room and room items needing repair.&lt;/p&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/ThRH5c_lILs</link>
+        </links>
+    </topic>
+</lesson>

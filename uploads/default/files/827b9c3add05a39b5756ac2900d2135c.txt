@@ -1,0 +1,89 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>At the end of this session, you will be able to:
+
+Install a Video Card Driver
+Install a Network Interface Controller (LAN port) Driver
+Install a Sound Card Driver</text>
+<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>Welcome to the session on Installing System Drivers. This session will teach you how to install the system device drivers for a computer system's video card, network interface controller (LAN port), sound card and motherboard chipsets.</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>The Video Card </title>
+	<text> A video card is an expansion card that converts data input into visual display.
+Installing the video card driver
+
+Procedure:
+
+Insert the CD containing the video card driver into the CD-ROM.
+In Windows Explorer, browse and select the drive containing the device driver.
+Double click on setup.exe or the appropriate executable file.
+Follow the on-screen instructions.
+After the installation is finished reboot the computer.</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+<topic>
+	<title>The Network Interface Controller (LAN port)</title>
+	<text> Network Interface Controller or LAN port is a device that connects your computer to other computers and devices in a network.
+Installing the Network Interface Controller driver
+
+Procedure:
+
+Insert the CD containing the network interface controller driver into the CD-ROM.
+In Windows Explorer, browse and select the drive containing the device driver.
+Double click on setup.exe or the appropriate executable file.
+Follow the on-screen instructions.
+After the installation is finished, reboot the computer.</text>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</topic>
+<topic>
+	<title>The Sound Card (audio adapter) </title>
+	<text> |The sound card or audio adapter is a device that enables your computer to play and record sounds.
+Installing the Sound Card (audio adapter) driver
+
+Procedure:
+
+Insert the CD containing the Network Interface Controller driver into the CD-ROM.
+In Windows Explorer, browse and select the drive containing the device driver.
+Double click on setup.exe or the appropriate executable file.
+Follow the on-screen instructions.
+After the installation is finished, reboot the computer.</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+<topic>
+	<title>The Sound Card (audio adapter) </title>
+	<text> |The sound card or audio adapter is a device that enables your computer to play and record sounds.
+Installing the Sound Card (audio adapter) driver
+
+Procedure:
+
+Insert the CD containing the Network Interface Controller driver into the CD-ROM.
+In Windows Explorer, browse and select the drive containing the device driver.
+Double click on setup.exe or the appropriate executable file.
+Follow the on-screen instructions.
+After the installation is finished, reboot the computer.</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+
+ 
+</lesson>	

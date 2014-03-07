@@ -1,0 +1,83 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+	At the end of this session, you will be able to
+
+		Connect a scanner to the computer
+		Install the scanner driver
+		Perform scanning procedures
+	</text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Connecting  Configuring a Scanner. This will teach you  how to  connect a scanner to the computer system unit, install the necessary driver and scan a document.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>What is a scanner?  </title>
+	<text> 
+A scanner or image scanner is a peripheral device that optically scans printed text and images, and converts them into digital images or  documents. The most common type of scanners are flatbed scanners.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> Connecting the Printer to the System Unit </title>
+	<text> 
+	What you will need
+	Scanner
+	CD or any media containing the scanner driver
+	The following instructions are applicable to scanners with USB connectors
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> Installing scanner driver  </title>
+	<text> 
+Procedure
+
+
+Insert the CD containing the scanner driver into the CDROM.
+In Windows Explorer, browse and select the drive containing the device. 
+Double click on setup.exe or the appropriate executable file.
+Follow the on screen instructions.
+
+Instruction Click the Play icon to view the video demonstration on how to install the scanner driver
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title> Scanning an image or document </title>
+	<text> 
+
+	Procedure
+		Launch the scanner application or utility on your computer.
+		Place a photo or document in the scanner.
+		Click Scan on the scanner application.
+		Follow the prompts to save the scanned image on your computer.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+ 
+</lesson>	

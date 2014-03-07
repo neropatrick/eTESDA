@@ -1,0 +1,91 @@
+﻿<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to:
+
+		Remove the hard disk drive from your computer
+		Replace the hard disk drive in your computer
+	</text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on How to replace hard drive. This session will teach you how to remove and install the hard drive in your computer
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title> What is a Hard Drive</title>
+	<text> 
+What is a Hard Disk Drive? 
+
+The Hard Disk Drive commonly referred to as hard disk is the main storage device of a computer system; it is located inside the system unit. The hard drive is where we install our operating system, applications, and store your documents. 
+
+Types of Hard Disk Drive connection interface
+
+IDE - stands for Integrated Drive Electronics is a 40 pin interface that connects the hard disk to the mother board.
+
+
+ 
+
+IDE Hard Drive 
+SATA - Serial ATA or SATA connectors are the next generation hard drive technology, it will replace hard drives using IDE connectors.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title>Removing the hard disk drive from the system unit </title>
+	<text> 
+	Procedure:
+Procedure:
+
+
+Shut down the computer, unplug the power cord from the power outlet and remove the power cord from the system unit.
+Remove the side cover of the system unit, both sides.
+Disconnect the SATA interface cable from the hard disk.
+Disconnect the SATA power cable from the hard disk.
+Using a Philips screw driver, remove any screw holding the hard disk.
+Remove the hard disk out of the case.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> Installing the hard disk drive to the system unit </title>
+	<text> 
+	Procedure:
+
+
+Power on the computer.
+Press the delete key while the computer is booting up to access the BIOS setting.
+
+NOTE: Refer to your systems manual on how to access the BIOS setup.
+
+
+Go to the Hard disk detection menu.
+If you installed your hard drive correctly you should be able to see your newly installed hard disk.
+If the BIOS is unable to detect your hard drive, repeat the how to install your hard disk drive to the system unit procedures.
+Exit the BIOS setting.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+
+
+ 
+</lesson>	

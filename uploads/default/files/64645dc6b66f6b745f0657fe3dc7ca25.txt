@@ -1,0 +1,91 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Introduction</title>
+	<text>
+	Welcome to the session on Installation of Computer Network. At the end of this session, you will be able to identify the different types of network and network topologies.
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/KULJOEkR0l4 </link>
+
+</links>
+</topic>
+
+<topic>
+	<title>Computer Network</title>
+	<text>
+	What is a network?
+A network is the interconnection of computers, devices and 	peripherals to allow them to communicate, share or print data 	and information.
+
+There are two types of networks:
+
+1. Local Area Network (LAN)
+
+The Local Area Network or LAN is the interconnection of computers and devices using a hub, switch or router within a small area such as building, school, office or home. 
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/KULJOEkR0l4 </link>
+
+</links>
+</topic>
+
+<topic>
+	<title>Network Models</title>
+	<text>
+	1. The Client Server Model
+
+The Client-Server model consists of one or more servers that provide services applications or resources to one or more individual computers called clients. The client and server communicates using a computer network. An example of a Client Server Model is the Internet.
+
+A server is a computer providing one or more services (printing, file, data and information sharing, email, and other applications) to serve other computers and devices. A server machine runs the different programs or applications and services which share their resources with clients. A client does not share any of its resources but requests a server's content or service function.
+A client is a computer or device that is requesting a service or resources from a server. The client computer sends the request to the server machine.
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	
+
+</links>
+</topic>
+
+<topic>
+	<title>Network Topology</title>
+	<text>
+	What is the Network Topology?
+
+It is a representation or structure of a network that deals with different types of interconnectivity. 
+
+What are the types of Network Topologies?
+
+Network topologies are categorized into the following basic types:
+
+1. Bus Topology
+
+The Bus Topology uses a common cable to connect all the computers. A computer wanting to communicate with another computer on the network sends the message to all computers through the cable, but only the target computer accepts the message.
+	</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	
+
+</links>
+</topic>
+
+<topic>
+	<title>Summary</title>
+	<text> 
+A Network is the interconnection of computers, devices and peripherals to allow them to communicate, share or print data and information.
+
+A Network Topology is the layout pattern representation of the interconnection of all the computers, nodes, links and other peripherals of a network. It shows the structure and transmission links that connect nodes in a network.
+
+In this session you have identified the:
+
+
+1. Types of Networks 
+2. Types of Network Topologies
+</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+</links>
+</topic>
+
+</lesson>	

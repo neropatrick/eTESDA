@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Introduction</title>
+	<text>Welcome to the session on Connecting Basic Peripheral Devices. This session will teach you how to connect basic peripheral devices and start up a computer system.</text>
+
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+</topic>
+ 
+
+ 
+</lesson>	

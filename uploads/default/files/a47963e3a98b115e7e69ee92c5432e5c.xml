@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;h   Arial, Helvetica, sans-serif; margin: 0px 0px 0.8em; padding: 0px; font-size: 1.7em; color: rgb(38, 38, 38);&quot;&gt;&lt;span  15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;
+
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Collect the dirty towels&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Efficiently strip the bed of its linens&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Properly keep the linens on the housekeeping cart&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn how to properly pick up and keep dirty towels and linens.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Types of linens</title>
+        <text>&lt;p align=&quot;justify&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;There are four sheets that go in the bed and these are:&lt;/p&gt;
+
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;strong  0px; padding: 0px; font-size: 0.99em;&quot;&gt;Bed Pad&lt;/strong&gt;&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ The bed pad is a soft, thin layer of padding that go directly on top of the mattress. This is secured with a band attached on its four corners. This is used to protect the mattress as well as give extra comfort to the guest.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;strong  0px; padding: 0px; font-size: 0.99em;&quot;&gt;Flat Sheet&lt;/strong&gt;&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ A typical bed which usually has three sheets. The top sheet, second sheet and bottom sheet. These are soft, thin sheets that the guest will directly come in contact with that is why it is important that they are soft and well-cleaned.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;strong  0px; padding: 0px; font-size: 0.99em;&quot;&gt;Blanket&lt;/strong&gt;&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ The blanket is a heavy type of sheet that go in between two flat sheets. This is to provide the guest with additional comfort, as well as keep or maintain the correct body thermostat.&lt;/li&gt;
+ &lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;&lt;strong  0px; padding: 0px; font-size: 0.99em;&quot;&gt;Bed Cover&lt;/strong&gt;&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ Lastly, a bed cover is put on top of the bed. This is a heavy sheet used to protect the linens and at the same time, makes the bed look more presentable.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+</lesson>

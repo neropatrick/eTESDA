@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lesson>
+    <topic>
+        <title>Session Objectives</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 18.25px;&quot;&gt;At the end of this session, you will be able to:&amp;nbsp;&lt;/span&gt;&lt;br  Arial, Helvetica, sans-serif; margin: 0px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot; /&gt;
+&amp;nbsp;
+&lt;ul&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Perform the procedures for room check&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  Arial, Helvetica, sans-serif; margin: 0px 0px 0px 15px; padding: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;Know where and how to place the housekeeping cart during clean up&lt;/li&gt;
+&lt;/ul&gt;
+</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Introduction</title>
+        <text>&lt;span  rgb(38, 38, 38); font-family: Arial, Helvetica, sans-serif; font-size: 15px; line-height: 19.578125px; text-align: justify; text-indent: 50px;&quot;&gt;In this session, you will learn how to properly enter the room.&lt;/span&gt;</text>
+        <links>
+            <link></link>
+        </links>
+    </topic>
+    <topic>
+        <title>Entering a Guest Room</title>
+        <text>&lt;p  Arial, Helvetica, sans-serif; margin: 0px 0px 1em; padding: 0px; font-size: 15px; text-indent: 50px; line-height: 1.3em; color: rgb(38, 38, 38);&quot;&gt;The following are the steps to perform before entering a guest room:&lt;/p&gt;
+
+&lt;p  0px 0px 1em; padding: 0px; font-size: 0.99em; text-indent: 50px; line-height: 1.3em;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;ol  Arial, Helvetica, sans-serif; margin: 0px; padding-right: 0px; padding-left: 0px; font-size: 15px; color: rgb(38, 38, 38); line-height: 18.25px;&quot;&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Knock on the door and announce, &amp;ldquo;Housekeeping!&amp;rdquo;.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Open the door and peek inside to make sure that there is no guest.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Position the housekeeping cart in front of the door as if to block it.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Fill in the Room Assignment Sheet with your details:&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &amp;bull; Name&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &amp;bull; Floor of rooms to be cleaned&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &amp;bull; Shift&amp;nbsp;&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ &amp;bull; Date&lt;br  0px; padding: 0px; font-size: 0.99em;&quot; /&gt;
+ And place this sheet inside the vanity table drawer&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Check if there is enough light to easily see the room. Open the lights if they are not yet opened.&lt;/li&gt;
+ &lt;li class=&quot;session_list&quot;  0px 0px 0px 15px; padding: 0px; font-size: 0.99em;&quot;&gt;Bring in your cleaning materials. The vacuum should be placed at the far end of the room. The cleaning tools caddy should be placed inside the bathroom.&lt;/li&gt;
+&lt;/ol&gt;
+</text>
+        <links>
+            <link>//www.youtube.com/embed/s-Wx4i_TN4o</link>
+        </links>
+    </topic>
+</lesson>

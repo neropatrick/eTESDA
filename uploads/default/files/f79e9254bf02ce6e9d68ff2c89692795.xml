@@ -1,0 +1,71 @@
+<?xml version='1.0' standalone='yes'?>
+<lesson>
+<topic>
+	<title>Session Objectives</title>
+	<text>
+		At the end of this session, you will be able to
+			Assign IP Address to a computer
+			Connect a Computer to the Wireless Network
+	</text>
+
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title>Introduction</title>
+	<text>Welcome to the session on Connecting Basic Peripheral Devices. This session will teach you how to connect basic peripheral devices and start up a computer system.</text>
+<links>
+	<link> //www.youtube.com/embed/1ZI9CVxU2_Y </link>
+	<link> //www.youtube.com/embed/KULJOEkR0l4 </link>
+
+</links>
+</topic>
+
+<topic>
+	<title> Connecting Computer to the Wireless Network  </title>
+	<text> 
+	Procedure
+		Check if your router has been configured for a wireless setup, if yes you can easily connect your computer to a wireless network.
+		Click on your Wireless Network Manager icon in the lowerright system/or in the taskbar tray to scan for available networks within range.
+		Locate the network that you want to connect to in the list of available wireless networks. If it is secured, you will see a padlock icon, you cannot connect to this wireless network.
+		Click Connect and Windows will establish the network connection.
+	
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title>How to Perform Disk Defragmentation   </title>
+	<text> 
+	 Disk Defragmenting is a utility in the Windows that rearrange the files stored on the disk to increase efficiency and reduce access. 
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+<topic>
+	<title> How to Back Up Files  </title>
+	<text> 
+	While hard drives nowadays become very reliable, there is still a chance that they will fail, causing you to lose important files. So its best to backup  documents, pictures and other data on your hard drive from time to time.
+	To backup a drive is to make a copy of files which and stored these in a seperately location from the original files.
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+<topic>
+	<title> How to Scan and Clean Computer Virus  </title>
+	<text> 
+A computer virus is a computer program that may affect your hard drive seriously. This may spread within your hard drive or from one computer to another computer using a removable device like CD, DVD or USB drive.	
+	</text>
+	<links>
+	<link>//www.youtube.com/embed/1ZI9CVxU2_Y</link>
+	</links>
+</topic>
+
+ 
+</lesson>	
