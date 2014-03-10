@@ -13,7 +13,7 @@
                     
                         <?php if($lCourses == NULL): ?>
                             <div class="alert alert-info">
-                        <strong> Heads up!</strong> You need to enroll first to take Self Checks and Online Assessment.  </div>
+                        <strong> Heads up!</strong> You need to enroll first to take Self Checks and Final Exam.  </div>
                         <?php else:?>
                             <?php if($this->session->userdata('fbuser') == 1):?>
                             <div class="alert alert-success">
@@ -66,11 +66,11 @@
                    {{if example:logged_in}}
                        
                         <?php if($passCount == $moduleCount && $lCourses != NULL): ?>
-                            <a href='<?php echo base_url()."test/generateOATest/".$courses[0]['id'] ?>' class="btn btn-small btn-primary pull-right"> Take Online Assessment</a>
+                            <a href='<?php echo base_url()."test/generateOATest/".$courses[0]['id'] ?>' class="btn btn-small btn-primary pull-right"> Take Final Exam</a>
                         <?php elseif($lCourses == NULL): ?>
-                            <a class="btn btn-small btn-primary pull-right" onclick="alert('Heads up! You need to enroll to be able to take the online assessment')"> Take Online Assessment</a>
+                            <a class="btn btn-small btn-primary pull-right" onclick="alert('Heads up! You need to enroll to be able to take the Final Exam')"> Take Final Exam</a>
                         <?php else:?>
-                            <a class="btn btn-small btn-primary pull-right" onclick="alert('Heads up! You still need to pass all your selfchecks')"> Take Online Assessment</a>
+                            <a class="btn btn-small btn-primary pull-right" onclick="alert('Heads up! You still need to pass all your selfchecks')"> Take Final Exam</a>
                         <?php endif; ?>
                        {{endif}}
                     {{if example:logged_in}}

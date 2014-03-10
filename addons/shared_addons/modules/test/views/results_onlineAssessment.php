@@ -1,29 +1,7 @@
 <body data-spy="sc-test" data-target="#nav-test" data-offset="0" style="padding-top:-200px;" onload="//loadMOA()"  >
 
     
- <div id="ViewCertificate" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-header" style="height:30px">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
-    
-  </div>
-  <div class="modal-body">
-      <div class="well well-small">
-      <h3> <?php echo Asset::img('glyphicons/glyphicons_332_certificate.png', 'alt text' );?>  Certificate of Completion</h3>
-      <hr>
-      <h5>Computer Hardware Servicing Online Assessment</h5>
-    <p > This certifies that Ken Ken Albudin has passed the Online Assessment of Computer Hardware Servicing
-        <br>
-        <small> on February 10,2013</small>
-    </p>
-    
-    
-    </div>
-  </div>
-  <div class="modal-footer">
-    <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-  
-  </div>
-</div>
+
 <div class="container offset1"  >
             <div class="row" style="padding-bottom:100px; ">
                 
@@ -32,7 +10,7 @@
             
                      
                      <h3> <?php echo $cName->title; ?></h3>
-                    <h4> Online Assessment</h4>
+                    <h4> Final Exam</h4>
                     <hr>
                  
                     <?php if(($totalscore/$totalitems)*100 >= 60):?>
@@ -89,7 +67,7 @@
                      
                             <div class="span7">
                          
-                            <h4><i class=" icon-th-list"></i> Competencies Earned</h4> 
+                            <h4><i class=" icon-th-list"></i> Modules </h4> 
                             <div style="overflow-y:auto; height:400px">
                             <?php $sectionctr = 1; ?>
                             <?php foreach($sections as $section): ?>
@@ -99,7 +77,7 @@
             <span class="label label-info"> <?php echo $secscores[$sectionctr]['score'] ?>/<?php echo $section['noOfItems'] ?></span> 
             
             <?php if(($secscores[$sectionctr]['score']/$section['noOfItems'])*100 >= 60): ?>
-            <span class="pull-right text-success" > Competent</span></h5> 
+            <span class="pull-right text-success" > Passed</span></h5> 
             <?php else: ?>
            <span class="pull-right text-error"> Needs review</span>       
            <?php endif; ?>

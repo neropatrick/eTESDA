@@ -10,7 +10,7 @@
                    <input type="hidden" id="stopwatch"/>
                      
                      <h3> <?php echo $course->title ?></h3>
-                    <h4> Online Assessment</h4>
+                    <h4> Final Exam</h4>
                             <hr>
                   
                 

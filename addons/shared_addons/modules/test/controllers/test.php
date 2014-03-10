@@ -353,7 +353,7 @@ class Test extends Public_Controller {
             $courseTitle1 = $this->test_m->getBadName($totItems[0]['courseID']);
             $badgeImg = $this->test_m->getBadImg($totItems[0]['courseID']);
             $courseTitle = $this->getCourses->getCourseTitle($totItems[0]['courseID']);
-            $actMessage = 'You have passed '.$courseTitle.' Online Assessment!';
+            $actMessage = 'You have passed '.$courseTitle.' Final Exam!';
             $this->test_m->newActivity($this->session->userdata('userid'), $actMessage, date("Y-m-d H:i:s"));
             $tbID = $this->test_m->addTestResult($this->session->userdata('userid'), $totItems[0]['testID'], $totalscore, date("Y-m-d H:i:s"), 'Passed');
             $this->model_users->upLearnerStat($this->session->userdata('userid'), $totItems[0]['courseID'], 3);
@@ -1340,8 +1340,8 @@ class Test extends Public_Controller {
         $forShare = $this->test_m->shareOA($resID);
         
         foreach($forShare as $fs){
-            $message = 'I got '.$fs['result'].' out of '.$fs['noOfItems'].' items for '.$fs['title'].' Online Assessment';
-            $name = 'I Passed an Online Assessment!';
+            $message = 'I got '.$fs['result'].' out of '.$fs['noOfItems'].' items for '.$fs['title'].' Final Exam';
+            $name = 'I Passed an Final Exam!';
             $link = 'e-tesda.gov.ph';
             $description = '';
             $this->postFB($message, $name, $link, $description);

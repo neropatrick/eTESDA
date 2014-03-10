@@ -61,7 +61,7 @@
                               
                            <div class="span7">
                             
-                            <h4><i class=" icon-th-list"></i> Competencies Earned</h4>     
+                            <h4><i class=" icon-th-list"></i> Module</h4>     
                           
                            <div class="media well well-small">
                 <div class="media-body">
@@ -69,7 +69,7 @@
             <span class="label label-info"> <?php echo $score ?>/<?php echo $total ?></span> 
             
             <?php if(($score/$total)*100 >= 60): ?>
-            <span class="pull-right text-success" > Competent</span></h5> 
+            <span class="pull-right text-success" > Passed </span></h5> 
             <?php else: ?>
                    <a href="#">  <span class="pull-right text-error" > Needs review</span> </a>        
             <?php endif ?>

@@ -105,7 +105,7 @@
   
              <?php $barWidth = 99/($modCount[$count - 1] + 1); ?>
                        <?php $i = 1; ?>
-                       <?php $OA = $cd[0]['title'].' Online Assessment'; ?>
+                       <?php $OA = $cd[0]['title'].' Final Exam'; ?>
                  <?php foreach($modTitles[$cd[0]['ID']] as $a): ?>
                  <?php foreach ($a as $mID): ?>  
                       
@@ -256,7 +256,7 @@
             <div class="span5" style="margin-left: -30px;">
                 
                 <div class="span5 well well-small">
-                    <h4><?php echo Asset::img('glyphicons/glyphicons_087_log_book.png', 'alt text' );?> Finished Competencies</h4>
+                    <h4><?php echo Asset::img('glyphicons/glyphicons_087_log_book.png', 'alt text' );?> Finished Modules</h4>
                     <div  style="overflow-y:auto; height:250px; margin-left:-25px;">
                     <ul style="list-style:none" id="modules">
                         <?php if(empty($finishedModules)):?>

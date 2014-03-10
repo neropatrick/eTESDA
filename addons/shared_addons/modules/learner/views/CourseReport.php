@@ -155,7 +155,7 @@ footer-style="color:black; font-size:8pt" />
 
 <table  style="width:100%;border-collapse:collapse; margin-top:50px"  >
      <tr>
-         <td style=" border-bottom: 0.055cm solid #4C6169;" ><h4> Competencies</h4></td>
+         <td style=" border-bottom: 0.055cm solid #4C6169;" ><h4> Modules</h4></td>
          
         </tr>
        
@@ -209,7 +209,7 @@ footer-style="color:black; font-size:8pt" />
 
 <table  style="width:100%;border-collapse:collapse; margin-top:50px"  >
      <tr>
-         <td style=" border-bottom: 0.055cm solid #4C6169;" ><h4> Online Assessment Results</h4></td>
+         <td style=" border-bottom: 0.055cm solid #4C6169;" ><h4> Final Exam Results</h4></td>
          
         </tr>
        
