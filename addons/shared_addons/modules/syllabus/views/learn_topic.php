@@ -21,7 +21,7 @@
               {{if example:logged_in}}
               <span class="icon-ok-green" style="position:absolute; margin-left:-15px"></span>
               {{endif}}
-              <li class="active"> <a class="topicLink " rel="<?php echo $tList['id']?>" href="#<?php echo $tList['id']?>" data-toggle="tab"> <?php echo $topCount.". "; ?><?php echo $tList['title']; ?> </a></li>
+              <li class="active"> <a class="topicLink " style="font-weight:bold" rel="<?php echo $tList['id']?>" href="#<?php echo $tList['id']?>" data-toggle="tab"> <?php echo $topCount.". "; ?><?php echo $tList['title']; ?> </a></li>
               
               <?php else: ?>
                 {{if example:logged_in}}
@@ -33,7 +33,7 @@
                         <?php endforeach; ?>
                     <?php endforeach; ?>
                  {{endif}}
-                    <li ><a class="topicLink"  rel="<?php echo $tList['id']?>" href="#<?php echo $tList['id']?>" data-toggle="tab"> <?php echo $topCount.". "; ?><?php echo $tList['title']; ?> </a></li>
+                    <li ><a class="topicLink"  style="font-weight:bold" rel="<?php echo $tList['id']?>" href="#<?php echo $tList['id']?>" data-toggle="tab"> <?php echo $topCount.". "; ?><?php echo $tList['title']; ?> </a></li>
               <?php endif; ?>
               <?php $topCount+=1; ?>
            <?php endforeach; ?>
@@ -94,9 +94,9 @@
                             <?php foreach($content as $cont): ?>
                                 <?php if($count == 1): ?>
                                     <div class="tab-pane fade active in"  id="<?php echo $cont[0]['id']; ?>">
-                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px ">
+                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px; font-size:12pt ">
                                         
-                                        <p style="text-align:justify"><?php echo $cont[0]['textCont']; ?></p>
+                                        <p style="text-align:justify;font-size:12pt"><?php echo $cont[0]['textCont']; ?></p>
                                     
                                         </div>
 
@@ -154,9 +154,9 @@
                                   <?php $count +=1 ;?>
                                 <?php else: ?>
                                    <div class="tab-pane fade" id="<?php echo $cont[0]['id']; ?>">
-                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px ">
+                                    <div class="span5" style=" margin-left:10px; overflow: auto; height:300px; font-size:12pt ">
                                         
-                                        <p style="text-align:justify"><?php echo $cont[0]['textCont']; ?></p>
+                                        <p style="text-align:justify; font-size:12pt"> <?php echo $cont[0]['textCont']; ?></p>
                                     
                                         </div>
 
