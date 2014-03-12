@@ -107,7 +107,7 @@ $('textarea.wysiwyg-advanced').ckeditor({
                
             <?php endif ?>
                  <span >
-                    <a class="btn gray " onclick="tog_edit()"  style=" margin-bottom:10px" ><i class="icon-edit"> </i></a>
+                    <a class="btn gray " onclick="tog_edit()"  style=" margin-bottom:10px" title="Edit Course" ><i class="icon-edit"> </i></a>
                 </span>
                 
             </legend>

@@ -77,7 +77,7 @@
                         <?php if($lCourses != NULL): ?>
                             <a class="btn btn-small btn-success pull-right  disabled "> Enrolled</a>
                         <?php else: ?>
-                            <a href ='<?php echo base_url()."syllabus/enroll/".$courses[0]['id'] ?>' class="btn btn-small btn-success pull-right"> Enroll</a>
+                            <a id="enrollBtn" href ='<?php echo base_url()."syllabus/enroll/".$courses[0]['id'] ?>' class="btn btn-small btn-success pull-right"> Enroll</a>
                         <?php endif; ?>
                       
                      {{else}}
