@@ -407,6 +407,11 @@ class Admin extends Admin_Controller
            
        }
        
+       public function testItems(){
+           
+          $this->template->build('admin/testItems');
+           
+       }
        public function testList($courseID){
            $this->load->model('sample_m');
            $oaBasic = $this->sample_m->oaBasStat($courseID);
@@ -477,7 +482,14 @@ class Admin extends Admin_Controller
         redirect('admin');
         }
        
-
+        public function modal_itemCorrect(){
+            $this->load->view('admin/modal_itemCorrect');
+            
+        }
+        public function modal_itemWrong(){
+            $this->load->view('admin/modal_itemWrong');
+            
+        }
         public function modal_learners($courseID){
             $this->load->model('model_users');
             $courseEnr = $this->model_users->courseEnr($courseID);

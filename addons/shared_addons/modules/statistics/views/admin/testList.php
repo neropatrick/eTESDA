@@ -16,7 +16,7 @@
  
          <div class="content">
              <fieldset>
-                 <legend> Online Assessment</legend>
+                 <legend> Final Exam</legend>
                  
                  <table class="borderless" style="width:50%">
                      <tr>
@@ -30,6 +30,7 @@
                         
                  </table>
                  <a href="<?php echo site_url('admin/statistics/testStat/'.$oaBasic->courseID)?>" class="btn blue"> View Statistics</a>
+                 <a href="<?php echo site_url('admin/statistics/testItems/'.$oaBasic->courseID)?>" class="btn blue"> View Test Items</a>
              </fieldset>
              
          </div>

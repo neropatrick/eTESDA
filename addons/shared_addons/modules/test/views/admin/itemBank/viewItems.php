@@ -56,7 +56,7 @@
                         }
                 ?></td>
                 <td><?php echo format_date($item['dateCreated']) ?></td>
-                <td> <a href="<?php echo site_url('admin/test/modal_viewResponses1/'.$item['itemID'])?>" class=" btn btn-lesson blue cboxElement modal"> View Responses </a>
+                <td> <a href="<?php echo site_url('admin/test/modal_viewResponses1/'.$item['itemID'])?>" class=" btn btn-lesson blue cboxElement modal"> Edit Responses </a>
                 
                     <?php if($item['status'] == 1): ?>
                     <a href="<?php echo site_url('admin/test/flag_item/').'/'.$item['itemID'] ?>" id="flag" class="btn gray"> Flag Item </a> 
