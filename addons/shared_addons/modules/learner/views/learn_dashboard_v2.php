@@ -499,10 +499,10 @@
          
        <div id="completeProfile" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">Ã—</button>
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
     <h4 id="myModalLabel">eTESDA Learn wants to know you better!</h4>
   </div>
-  <div class="modal-body">
+  <div class="modal-body" style="height:350px; overflow:auto">
       <?php foreach($compDet as $comp):?>
    
                         
